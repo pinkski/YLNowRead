@@ -14,6 +14,9 @@ pod 'ReactiveCocoa', '~> 2.4.7'
 pod 'CocoaLumberjack', '~> 2.2.0'
 pod 'MBProgressHUD', '~> 0.9.1'
 pod 'OpenUDID'
+pod 'Reachability', '~> 3.1.1'
+pod 'RDVTabBarController'
+pod 'Mantle', '~>2.0.5' 
 
 end
 
